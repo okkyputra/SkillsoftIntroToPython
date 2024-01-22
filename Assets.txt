@@ -1,0 +1,12 @@
+it_pypjcddj_02_enus_02	36	Creating and Editing Lists in Python
+it_pypjcddj_02_enus_03	47	Accessing Values in Lists Using Python Indexing
+it_pypjcddj_02_enus_04	47	Inserting and Deleting Elements in Python Lists
+it_pypjcddj_02_enus_05	36	Using Strings as Sequences in Python
+it_pypjcddj_02_enus_06	26	Working with Python Tuples
+it_pypjcddj_02_enus_07	24	Working with Python Sets
+it_pypjcddj_02_enus_08	36	Performing Operations on Python Sets
+it_pypjcddj_02_enus_09	45	Creating Python Dictionaries for Data Storage
+it_pypjcddj_02_enus_10	39	Viewing and Editing Python Dictionaries
+it_pypjcddj_02_enus_11	44	Performing Copy Operations with Python Lists
+it_pypjcddj_02_enus_12	45	Performing Copy Operations with Python Tuples
+it_pypjcddj_02_enus_13	51	Performing Copy Operations with Python Dictionaries
